@@ -66,9 +66,9 @@ panel:
 
   - blank: true
   - key: Languages.Programming
-    value: "Python, SQL, R, Java, JavaScript, Bash"
+    value: "Python, SQL, R, Ruby, JavaScript, Bash, DAX"
   - key: Languages.Markup
-    value: "HTML, CSS, JSON, LaTeX, YAML, Markdown"
+    value: "HTML, CSS, JSON, XML, YAML, Markdown"
   - key: Languages.Real
     value: "Portuguese, English, Spanish"
 
@@ -86,16 +86,16 @@ panel:
   - key: Hobbies.Software
     value: "Open Source, Home Lab, Linux Tinkering"
   - key: Hobbies.Hardware
-    value: "Telescope Rigs, Raspberry Pi, Overclocking"
+    value: "Telescope Rigs, Raspberry Pi, Arduino"
   - key: Hobbies.Personal
     value: "Astronomy/Astrophotography"
 
   - blank: true
   - rule: "- Contact -"
   - key: LinkedIn
-    value: "laurobonometti"
-  - key: GitHub
-    value: "LAUR0-B0N0METTI"
+    value: "@laurobonometti"
+  - key: E-mail
+    value: "lauro.f.bonometti@gmail.com"
 
 theme:
   dark:

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1170px" height="510px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1219px" height="510px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -13,7 +13,7 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1170px" height="510px" fill="#161b22" rx="15"/>
+<rect width="1219px" height="510px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">                 .:+O#Oo=---:</tspan>
 <tspan x="15" y="50">              :*#%%@@@@@@@%@@#O+.</tspan>
@@ -41,29 +41,29 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="490">        -O@%@@@@@@@@@@@%%%%@@@@%%%#@*.</tspan>
 </text>
 <text x="427" y="30" fill="#c9d1d9">
-<tspan x="427" y="30">lauro@bonometti</tspan><tspan > -————————————————————————————————————————————————————-—-</tspan>
-<tspan x="427" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan >:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">ZorinOS, KDE Neon, Debian, Win 11, Win Server</tspan>
-<tspan x="427" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan >:</tspan><tspan class="cc" id="age_data_dots"> ................................... </tspan><tspan class="value" id="age_data">6 years, 0 months, 23 days</tspan>
-<tspan x="427" y="90" class="cc">. </tspan><tspan class="key">Host</tspan><tspan >:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">Dimensional Intelli-Systems</tspan>
-<tspan x="427" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan >:</tspan><tspan class="cc"> ................................. </tspan><tspan class="value">AI Engineer / Data Scientist</tspan>
-<tspan x="427" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan >:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">Cursor, VSCode, Jupyter, Google Colab</tspan>
-<tspan x="427" y="150" class="cc">. </tspan><tspan class="key">CLI</tspan><tspan >:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">QwenCode, OpenCode, ClaudeCode, LlamaCLI</tspan>
+<tspan x="427" y="30">lauro@bonometti</tspan><tspan > -—————————————————————————————————————————————————————————-—-</tspan>
+<tspan x="427" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan >:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">ZorinOS, KDE Neon, Debian, Win 11, Win Server</tspan>
+<tspan x="427" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan >:</tspan><tspan class="cc" id="age_data_dots"> ........................................ </tspan><tspan class="value" id="age_data">6 years, 0 months, 23 days</tspan>
+<tspan x="427" y="90" class="cc">. </tspan><tspan class="key">Host</tspan><tspan >:</tspan><tspan class="cc"> ......................................... </tspan><tspan class="value">Dimensional Intelli-Systems</tspan>
+<tspan x="427" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan >:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">AI Engineer / Data Scientist</tspan>
+<tspan x="427" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan >:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">Cursor, VSCode, Jupyter, Google Colab</tspan>
+<tspan x="427" y="150" class="cc">. </tspan><tspan class="key">CLI</tspan><tspan >:</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">QwenCode, OpenCode, ClaudeCode, LlamaCLI</tspan>
 <tspan x="427" y="170" class="cc">. </tspan>
-<tspan x="427" y="190" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan><tspan >:</tspan><tspan class="cc"> ........ </tspan><tspan class="value">Python, SQL, R, Java, JavaScript, Bash</tspan>
-<tspan x="427" y="210" class="cc">. </tspan><tspan class="key">Languages.Markup</tspan><tspan >:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML, Markdown</tspan>
-<tspan x="427" y="230" class="cc">. </tspan><tspan class="key">Languages.Real</tspan><tspan >:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">Portuguese, English, Spanish</tspan>
+<tspan x="427" y="190" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan><tspan >:</tspan><tspan class="cc"> ........ </tspan><tspan class="value">Python, SQL, R, Ruby, JavaScript, Bash, DAX</tspan>
+<tspan x="427" y="210" class="cc">. </tspan><tspan class="key">Languages.Markup</tspan><tspan >:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">HTML, CSS, JSON, XML, YAML, Markdown</tspan>
+<tspan x="427" y="230" class="cc">. </tspan><tspan class="key">Languages.Real</tspan><tspan >:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">Portuguese, English, Spanish</tspan>
 <tspan x="427" y="250" class="cc">. </tspan>
-<tspan x="427" y="270" class="cc">. </tspan><tspan class="key">AI.Skills</tspan><tspan >:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">Machine Learning, Deep Learning, NLP, RAG, MLOps</tspan>
-<tspan x="427" y="290" class="cc">. </tspan><tspan class="key">AI.Frameworks</tspan><tspan >:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">PyTorch, TensorFlow, LangChain, Hugging Face</tspan>
-<tspan x="427" y="310" class="cc">. </tspan><tspan class="key">DevOps</tspan><tspan >:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">Docker, Jenkins, AWS, Ansible, Terraform</tspan>
-<tspan x="427" y="330" class="cc">. </tspan><tspan class="key">RPA</tspan><tspan >:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">n8n, UiPath, ElectroNeek, Blue Prism, BotCity</tspan>
+<tspan x="427" y="270" class="cc">. </tspan><tspan class="key">AI.Skills</tspan><tspan >:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">Machine Learning, Deep Learning, NLP, RAG, MLOps</tspan>
+<tspan x="427" y="290" class="cc">. </tspan><tspan class="key">AI.Frameworks</tspan><tspan >:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">PyTorch, TensorFlow, LangChain, Hugging Face</tspan>
+<tspan x="427" y="310" class="cc">. </tspan><tspan class="key">DevOps</tspan><tspan >:</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">Docker, Jenkins, AWS, Ansible, Terraform</tspan>
+<tspan x="427" y="330" class="cc">. </tspan><tspan class="key">RPA</tspan><tspan >:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">n8n, UiPath, ElectroNeek, Blue Prism, BotCity</tspan>
 <tspan x="427" y="350" class="cc">. </tspan>
-<tspan x="427" y="370" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan><tspan >:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">Open Source, Home Lab, Linux Tinkering</tspan>
-<tspan x="427" y="390" class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan><tspan >:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Telescope Rigs, Raspberry Pi, Overclocking</tspan>
-<tspan x="427" y="410" class="cc">. </tspan><tspan class="key">Hobbies.Personal</tspan><tspan >:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">Astronomy/Astrophotography</tspan>
+<tspan x="427" y="370" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan><tspan >:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">Open Source, Home Lab, Linux Tinkering</tspan>
+<tspan x="427" y="390" class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan><tspan >:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">Telescope Rigs, Raspberry Pi, Arduino</tspan>
+<tspan x="427" y="410" class="cc">. </tspan><tspan class="key">Hobbies.Personal</tspan><tspan >:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">Astronomy/Astrophotography</tspan>
 <tspan x="427" y="430" class="cc">. </tspan>
-<tspan x="427" y="450">- Contact -</tspan><tspan >——————————————————————————————————————————————————————————-—-</tspan>
-<tspan x="427" y="470" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan >:</tspan><tspan class="cc"> ............................................. </tspan><tspan class="value">laurobonometti</tspan>
-<tspan x="427" y="490" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan >:</tspan><tspan class="cc"> .............................................. </tspan><tspan class="value">LAUR0-B0N0METTI</tspan>
+<tspan x="427" y="450">- Contact -</tspan><tspan >———————————————————————————————————————————————————————————————-—-</tspan>
+<tspan x="427" y="470" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan >:</tspan><tspan class="cc"> ................................................. </tspan><tspan class="value">@laurobonometti</tspan>
+<tspan x="427" y="490" class="cc">. </tspan><tspan class="key">E-mail</tspan><tspan >:</tspan><tspan class="cc"> ....................................... </tspan><tspan class="value">lauro.f.bonometti@gmail.com</tspan>
 </text>
 </svg>
