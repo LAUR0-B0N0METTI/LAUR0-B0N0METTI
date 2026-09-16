@@ -1,0 +1,112 @@
+# ---------------------------------------------------------------------------
+# config.yaml - unica fonte de verdade do card.
+# Edite este arquivo e rode `python today.py` (ou deixe o GitHub Action rodar).
+# ---------------------------------------------------------------------------
+
+user:
+  # Aparece no cabecalho do painel, no formato "usuario@maquina".
+  handle: lauro
+  machine: bonometti
+
+uptime:
+  # Data inicial do contador "Uptime".
+  # Troque para a sua data de nascimento se quiser o mesmo efeito do Andrew6rant.
+  since: "2020-08-24"
+  # pt-BR ou en-US
+  locale: en-US
+
+ascii:
+  image: assets/profile.png
+  # `rows` e ajustado automaticamente por today.py para bater com o painel.
+  rows: 24
+  # largura/altura do recorte do retrato (0.85 = levemente retrato)
+  aspect: 0.85
+  # fracao da altura mantida (corta parte do busto)
+  keep_bottom: 0.86
+  # rampa de caracteres: mid (padrao), long ou blocks
+  ramp: mid
+  # acima deste brilho (0..1) o pixel vira espaco em branco
+  white_cut: 0.86
+  contrast: 1.15
+  gamma: 1.0
+  # alinhamento vertical caso a arte tenha menos linhas que o painel
+  valign: center
+
+layout:
+  font_size: 16
+  line_height: 20
+  char_width: 9.7
+  margin: 15
+  gutter: 24       # espaco entre a arte ASCII e o painel
+  min_dots: 4      # minimo de pontos no preenchimento entre chave e valor
+  padding: 6       # folga extra na largura do painel
+
+# ---------------------------------------------------------------------------
+# PAINEL
+#   - {rule: "texto"}          -> linha de titulo com o filete de travessoes
+#   - {blank: true}            -> linha em branco (so o ". " cinza)
+#   - {key: "X", value: "Y"}   -> chave a esquerda, valor a direita
+#   {uptime} e substituido em tempo de execucao.
+# ---------------------------------------------------------------------------
+panel:
+  - rule: "{handle}@{machine}"
+  - key: OS
+    value: "ZorinOS, KDE Neon, Debian, Win 11, Win Server"
+  - key: Uptime
+    value: "{uptime}"
+    id: age_data
+  - key: Host
+    value: "Dimensional Intelli-Systems"
+  - key: Kernel
+    value: "AI Engineer / Data Scientist"
+  - key: IDE
+    value: "Cursor, VSCode, Jupyter, Google Colab"
+  - key: CLI
+    value: "QwenCode, OpenCode, ClaudeCode, LlamaCLI"
+
+  - blank: true
+  - key: Languages.Programming
+    value: "Python, SQL, R, Java, JavaScript, Bash"
+  - key: Languages.Markup
+    value: "HTML, CSS, JSON, LaTeX, YAML, Markdown"
+  - key: Languages.Real
+    value: "Portuguese, English, Spanish"
+
+  - blank: true
+  - key: AI.Skills
+    value: "Machine Learning, Deep Learning, NLP, RAG, MLOps"
+  - key: AI.Frameworks
+    value: "PyTorch, TensorFlow, LangChain, Hugging Face"
+  - key: DevOps
+    value: "Docker, Jenkins, AWS, Ansible, Terraform"
+  - key: RPA
+    value: "n8n, UiPath, ElectroNeek, Blue Prism, BotCity"
+
+  - blank: true
+  - key: Hobbies.Software
+    value: "Open Source, Home Lab, Linux Tinkering"
+  - key: Hobbies.Hardware
+    value: "Telescope Rigs, Raspberry Pi, Overclocking"
+  - key: Hobbies.Personal
+    value: "Astronomy/Astrophotography"
+
+  - blank: true
+  - rule: "- Contact -"
+  - key: LinkedIn
+    value: "laurobonometti"
+  - key: GitHub
+    value: "LAUR0-B0N0METTI"
+
+theme:
+  dark:
+    background: "#161b22"
+    text: "#c9d1d9"
+    key: "#ffa657"
+    value: "#a5d6ff"
+    dots: "#616e7f"
+  light:
+    background: "#f6f8fa"
+    text: "#24292f"
+    key: "#953800"
+    value: "#0a3069"
+    dots: "#c2cfde"
