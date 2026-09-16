@@ -11,7 +11,7 @@ user:
 uptime:
   # Data inicial do contador "Uptime".
   # Troque para a sua data de nascimento se quiser o mesmo efeito do Andrew6rant.
-  since: "2020-08-24"
+  since: "1985-06-26"
   # pt-BR ou en-US
   locale: en-US
 
